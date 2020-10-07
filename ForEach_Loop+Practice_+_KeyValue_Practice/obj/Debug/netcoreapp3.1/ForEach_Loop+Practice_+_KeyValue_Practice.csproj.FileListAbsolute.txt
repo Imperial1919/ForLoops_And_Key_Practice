@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.exe
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.deps.json
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.runtimeconfig.json
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.dll
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\bin\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.pdb
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.AssemblyInfo.cs
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.dll
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.pdb
+C:\Users\owner\source\repos\ForEach_Loop+Practice_+_KeyValue_Practice\ForEach_Loop+Practice_+_KeyValue_Practice\obj\Debug\netcoreapp3.1\ForEach_Loop+Practice_+_KeyValue_Practice.genruntimeconfig.cache
